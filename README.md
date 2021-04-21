@@ -1,3 +1,1 @@
-The program calDoc.py is the main one. It is using QT Widgets (you need pyqt5 and pyqt-tools to run it) and the file screen (validaDoc.py) created.
-The program validaDoc.py is the result of PyQT5 transformation from the screen validaDoc.ui. If you want to change something, you have the original file.
-The others files are just beginning copies. You don't need them to solve the calDoc.py. They are transformed according to the goal program.
+O programa calDoc.py é o programa principal. O programa importa QtWidgets (é necessário ter pyqt5 and PyQt para executá-lo). O programa validaDoc.py é o resultado da transformação do modelo UI validaDoc.ui. Caso queira modificar ou acrescentar algo na mesma, você tem o original.
